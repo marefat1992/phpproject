@@ -1,0 +1,36 @@
+html,body{
+	font-family: sans-serif;
+	background-color: #f3f3f4;
+	color: #676a6c;
+	width: 100%;
+}
+.box{
+	border: 2px solid red;
+}
+#side-menu{
+	background-color: #2f4650;
+	padding: 0px;
+}
+#side-menu h1{
+color: #1f3647;
+text-align: center;
+margin: 10px 0px;
+font-size: 25px;
+}
+.display-table{
+	display: table;
+	padding: 0px;
+	width: : 100%;
+}
+.display-table-row{
+	display: table-row;
+	height: 100%;
+}
+.display-table-cell{
+	display: table-cell;
+	float: none;
+	height: 100%;
+}
+.valign-top{
+	vertical-align: top;
+}
